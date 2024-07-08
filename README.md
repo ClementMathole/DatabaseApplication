@@ -13,7 +13,7 @@ This is a simple C# console application that demonstrates basic CRUD(Create, Rea
 3. Install the necessary packages: ``dotnet restore``
 
 ## Usage
-1. Run the application: (dotnet run)
+1. Run the application: ``dotnet run``
 2. Follow the screen prompts to create, read, update, and delete products
 
 ## License
