@@ -10,7 +10,7 @@ This is a simple C# console application that demonstrates basic CRUD(Create, Rea
 ## Setup
 1. Clone the repositoty
 2. Navigate to the project directory
-3. Install the necessary packages: (dotnet restore)
+3. Install the necessary packages: ``dotnet restore``
 
 ## Usage
 1. Run the application: (dotnet run)
