@@ -16,5 +16,5 @@ This is a simple C# console application that demonstrates basic CRUD(Create, Rea
 1. Run the application: (dotnet run)
 2. Follow the screen prompts to create, read, update, and delete products
 
-##License
+## License
 Distributed under the MIT License.
